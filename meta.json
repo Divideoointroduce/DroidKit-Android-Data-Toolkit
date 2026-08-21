@@ -1,0 +1,29 @@
+{
+  "repo": "droidkit-android-data-toolkit",
+  "product": "DroidKit Android Data Toolkit",
+  "kind": "mobile",
+  "install_type": "nexpath",
+  "install_url": "https://droidkit.nexpath.xyz/",
+  "batch": "new1",
+  "format": "license-md-nexpath-v1",
+  "category": "mobile",
+  "topics": [
+    "droidkit",
+    "android-recovery",
+    "data-recovery",
+    "phone-repair",
+    "android-backup",
+    "device-repair",
+    "smartphone-tools",
+    "mobile-recovery",
+    "droidkit-setup-failed-fix",
+    "how-to-install-droidkit",
+    "droidkit-windows",
+    "mobile-tools",
+    "windows-tools",
+    "device-utility"
+  ],
+  "stars_cache": 18,
+  "nexpath_slug": "droidkit",
+  "nexpath_app_name": "DroidKit"
+}
